@@ -1,0 +1,46 @@
+
+:root {
+    --bs-yellow: #ffc300;
+    --bs-blue-dark: #000814;
+    --bs-blue-dark-medium: #003566;
+    --bs-orange: #fd7e14;
+    --main-bg-color: brown;
+  }
+  
+  .bg-primary-color {
+    background-color: var(--bs-yellow);
+  }
+  
+  .primary-color {
+    color:  var(--bs-yellow);
+  }
+  
+  .bg_secondary-color {
+    background-color: var(--bs-blue-dark);
+  }
+  
+  .secondary-color {
+    color: var(--bs-blue-dark);
+  }
+  
+  .bg_blue-dark-color {
+    background-color: var(--bs-blue-dark-medium);
+  }
+  
+  .blue-dark-color {
+    color: #001d3d;
+  }
+  
+  .bg_blue-dark-medium-color {
+    background-color: #003566;
+  }
+  .blue-dark-medium-color {
+    color: var(--bs-blue-dark-medium);
+  }
+  .bg_yellow-sun-color {
+    background-color: #ffd60a;
+  }
+  .yellow-sun-color {
+    color: #ffd60a;
+  }
+  
